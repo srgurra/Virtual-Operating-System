@@ -1,0 +1,5 @@
+JOB IDENTIFICATION NUMBER:1
+NATURE OF TERMINATION:NORMAL
+ AND THE CLOCK VALUE is1b
+ Execution time(ms in decimal): 2600
+ I/O time(ms in decimal): 56
